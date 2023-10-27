@@ -1,0 +1,15 @@
+openai
+gradio
+panda
+diffusers
+transformers
+PIL
+accelerate
+torch
+fastai
+scikit-image
+requests
+
+# pip install -r requirments.txt
+# pip install -r requirments.txt --ignore-installed
+# pip install -r requirments.txt --ignore-installed --no-cache-dir
